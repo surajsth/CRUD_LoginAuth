@@ -1,0 +1,30 @@
+{"level":"error","message":"info","timestamp":"2023-09-18T08:46:56.083Z"}
+{"level":"error","message":"info","timestamp":"2023-09-18T08:47:06.513Z"}
+{"level":"info","message":{"email":"subi@gmail.com","firstname":"subina","gender":"female","id":3,"lastname":"prajapati shrestha","number":"9808548601","password":"1234"},"timestamp":"2023-09-18T08:47:09.902Z"}
+{"level":"info","message":"login successfully","success":1,"timestamp":"2023-09-18T08:47:10.099Z","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXN1bHQiOnsiaWQiOjMsImZpcnN0bmFtZSI6InN1YmluYSIsImxhc3RuYW1lIjoicHJhamFwYXRpIHNocmVzdGhhIiwiZ2VuZGVyIjoiZmVtYWxlIiwiZW1haWwiOiJzdWJpQGdtYWlsLmNvbSIsIm51bWJlciI6Ijk4MDg1NDg2MDEifSwiaWF0IjoxNjk1MDI2ODMwLCJleHAiOjE2OTUwMzA0MzB9.OQdKv9QwacO_9qrxQfOxTv-KCVJzmrpgetrJIt7HNYQ"}
+{"level":"error","message":"info","timestamp":"2023-09-18T10:48:22.638Z"}
+{"level":"error","message":"info","timestamp":"2023-09-18T10:49:13.196Z"}
+{"level":"error","message":"info","timestamp":"2023-09-18T10:49:25.357Z"}
+{"level":"error","message":"info","timestamp":"2023-09-18T10:54:48.819Z"}
+{"level":"error","message":"info","timestamp":"2023-09-18T10:55:20.061Z"}
+{"level":"error","message":"info","timestamp":"2023-09-18T10:57:51.125Z"}
+{"level":"error","message":"info","timestamp":"2023-09-18T10:59:12.531Z"}
+{"level":"info","message":{"email":"subi@111.com","firstname":"Rashan","gender":"mf","lastname":"Kaji","number":"9808548601","password":"1234"},"timestamp":"2023-09-18T11:00:04.560Z"}
+{"level":"info","message":{"data":"Invalid email or password","success":0},"timestamp":"2023-09-18T11:00:04.572Z"}
+{"level":"info","message":{"email":"subi@111.com","firstname":"Rashan","gender":"mf","lastname":"Kaji","number":"9808548601","password":"1234"},"timestamp":"2023-09-18T11:00:43.539Z"}
+{"level":"info","message":"invalid token","success":0,"timestamp":"2023-09-18T11:00:43.544Z"}
+{"level":"info","message":{"email":"subi@111.com","firstname":"Rashan","gender":"mf","lastname":"Kaji","number":"9808548601","password":"1234"},"timestamp":"2023-09-18T11:00:58.130Z"}
+{"level":"info","message":{"data":"Invalid email or password","success":0},"timestamp":"2023-09-18T11:00:58.136Z"}
+{"level":"info","message":{"email":"subi@gmail.com","firstname":"subina","gender":"female","id":3,"lastname":"prajapati shrestha","number":"123234","password":"1234"},"timestamp":"2023-09-18T11:01:07.626Z"}
+{"level":"info","message":"login successfully","success":1,"timestamp":"2023-09-18T11:01:07.724Z","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXN1bHQiOnsiaWQiOjMsImZpcnN0bmFtZSI6InN1YmluYSIsImxhc3RuYW1lIjoicHJhamFwYXRpIHNocmVzdGhhIiwiZ2VuZGVyIjoiZmVtYWxlIiwiZW1haWwiOiJzdWJpQGdtYWlsLmNvbSIsIm51bWJlciI6Ijk4MDg1NDg2MDEifSwiaWF0IjoxNjk1MDM0ODY3LCJleHAiOjE2OTUwMzg0Njd9.IjDdS7dVB0ELk_SzxuDAYWhUidohqBiC4RZqPl1xktg"}
+{"level":"info","message":{"email":"ma@gmail.com","firstname":"falser","gender":"falser","lastname":"dan","number":"000000000","password":"1234"},"timestamp":"2023-09-18T11:01:54.950Z"}
+{"level":"info","message":"\"firstname\" must be a number","success":0,"timestamp":"2023-09-18T11:01:54.958Z"}
+{"level":"error","message":"info","timestamp":"2023-09-18T11:02:21.300Z"}
+{"level":"info","message":{"email":"ma@gmail.com","firstname":"falser","gender":"falser","lastname":"dan","number":"000000000","password":"1234"},"timestamp":"2023-09-18T11:02:22.794Z"}
+{"level":"info","message":"\"gender\" must be one of [m, f, o]","success":0,"timestamp":"2023-09-18T11:02:22.804Z"}
+{"level":"info","message":{"email":"ma@gmail.com","firstname":"falser","gender":"m","lastname":"dan","number":"000000000","password":"1234"},"timestamp":"2023-09-18T11:02:28.650Z"}
+{"level":"info","message":"Invalid mobile number","success":0,"timestamp":"2023-09-18T11:02:28.654Z"}
+{"level":"info","message":{"email":"ma@gmail.com","firstname":"falser","gender":"m","lastname":"dan","number":"0000000001","password":"1234"},"timestamp":"2023-09-18T11:02:37.024Z"}
+{"level":"info","message":"Invalid mobile number","success":0,"timestamp":"2023-09-18T11:02:37.029Z"}
+{"level":"info","message":{"email":"ma@gmail.com","firstname":"falser","gender":"m","lastname":"dan","number":9809809878,"password":"1234"},"timestamp":"2023-09-18T11:03:32.140Z"}
+{"level":"info","message":{"data":{"affectedRows":1,"changedRows":0,"fieldCount":0,"insertId":4,"message":"","protocol41":true,"serverStatus":2,"warningCount":0},"success":1},"timestamp":"2023-09-18T11:03:32.246Z"}
