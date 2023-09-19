@@ -22,7 +22,7 @@ app.use((req, res, next) => {
     next()
 })
 
-const port = process.env.APP_PORT
+const port = 5000
 app.use("/api/users", userRouter)
 
 

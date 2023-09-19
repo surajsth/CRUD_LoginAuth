@@ -3,7 +3,7 @@ const pool = require("../../config/database")
 module.exports = {
     create: (data, callBack) => {
         pool.query(
-            `insert into ${process.env.TABLE_NAME}(firstname, lastname, gender, email, password, number)
+            `insert into registration(firstname, lastname, gender, email, password, number)
             values(?,?,?,?,?,?)`,
             [
                 data.firstname,

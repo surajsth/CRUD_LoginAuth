@@ -8,13 +8,13 @@ const logger = createLogger({
             level: 'info',
             format: format.combine(format.timestamp(), format.json())
         }),
-        new transports.MongoDB({
-            level: 'error',
-            db: process.env.MONGO_DB,
-            options: { useUnifiedTopology: true },
-            collection: "babaji",
-            format: format.combine(format.timestamp(), format.json())
-        })
+        // new transports.MongoDB({
+        //     level: 'error',
+        //     db: process.env.MONGO_DB,
+        //     options: { useUnifiedTopology: true },
+        //     collection: "babaji",
+        //     format: format.combine(format.timestamp(), format.json())
+        // })
     ]
 })
 
