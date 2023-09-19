@@ -28,3 +28,4 @@
 {"level":"info","message":"Invalid mobile number","success":0,"timestamp":"2023-09-18T11:02:37.029Z"}
 {"level":"info","message":{"email":"ma@gmail.com","firstname":"falser","gender":"m","lastname":"dan","number":9809809878,"password":"1234"},"timestamp":"2023-09-18T11:03:32.140Z"}
 {"level":"info","message":{"data":{"affectedRows":1,"changedRows":0,"fieldCount":0,"insertId":4,"message":"","protocol41":true,"serverStatus":2,"warningCount":0},"success":1},"timestamp":"2023-09-18T11:03:32.246Z"}
+{"level":"error","message":"info","timestamp":"2023-09-19T02:24:40.374Z"}
